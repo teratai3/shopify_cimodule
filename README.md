@@ -15,5 +15,6 @@ apiのコントローラー事にモジュールを作成していきます。
 「ShopifyAuth」「ShopifyFrontend」をコア機能
 
 ### 例)
-todoリストを作成したい場合は
+todoリストを作成したい場合
+
 「TodoApi」モジュールを作成して「ShopifyFrontend」からTodoApiに対してfetchさせて行きます。
