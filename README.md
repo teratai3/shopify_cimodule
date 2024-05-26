@@ -5,10 +5,13 @@ http://blog.a-way-out.net/blog/2021/11/29/codeigniter4-modules/
 
 ## モジュール例
 ShopifyAuth → アプリのインストールからapiの認証の検証までの機能
+
 ShopifyFrontend → reactを利用したフロントエンドの機能をここで開発していきます。
+
 ProductApi → ShopifyAuthのapiコントローラークラスを継承した製品取得サンプル例
 
 apiのコントローラー事にモジュールを作成していきます。
+
 「ShopifyAuth」「ShopifyFrontend」をコア機能
 
 ### 例)
